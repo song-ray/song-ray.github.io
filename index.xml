@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Song</title>
+    <link>https://song-ray.github.io/</link>
+      <atom:link href="https://song-ray.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@2022 Rui Song</copyright>
+    <image>
+      <url>https://song-ray.github.io/media/icon_hu9af2efcd56b97af8859e8f7e40aa7151_40345_512x512_fill_lanczos_center_3.png</url>
+      <title>Rui Song</title>
+      <link>https://song-ray.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://song-ray.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://song-ray.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://song-ray.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://song-ray.github.io/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
