@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://song-ray.github.io/admin/</loc></url>
-  <url>
-    <loc></loc></url>
-  <url>
-    <loc>https://song-ray.github.io/home/</loc></url>
-  <url>
-    <loc>https://song-ray.github.io/categories/</loc></url>
-  <url>
-    <loc></loc></url>
-  <url>
-    <loc>https://song-ray.github.io/publication_types/</loc></url>
-  <url>
-    <loc>https://song-ray.github.io/</loc></url>
-  <url>
-    <loc>https://song-ray.github.io/tags/</loc></url></urlset>
+    <loc>https://song-ray.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://song-ray.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
